@@ -1,0 +1,7 @@
+[info] Packaging /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk2/funsets/target/scala-2.11/progfun1-funsets_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	funsets/FunSets.scala
+[debug] 	  /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk2/funsets/src/main/scala/funsets/FunSets.scala
+[debug] 	funsets/Main.scala
+[debug] 	  /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk2/funsets/src/main/scala/funsets/Main.scala
+[info] Done packaging.

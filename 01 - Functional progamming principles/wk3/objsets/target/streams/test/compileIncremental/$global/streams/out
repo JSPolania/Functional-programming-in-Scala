@@ -1,0 +1,61 @@
+[debug] The objsets.Empty source file has the following regular definitions changed:
+[debug] 	size, asSet.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) objsets.Empty: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all sources transitively invalidated by inheritance.
+[debug] Getting sources that directly depend on (external) objsets.Empty.
+[debug] The following modified names cause invalidation of /Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala: Set(size, asSet)
+[debug] The objsets.TweetList source file has the following regular definitions changed:
+[debug] 	size, asSet.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) objsets.TweetList: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all sources transitively invalidated by inheritance.
+[debug] Getting sources that directly depend on (external) objsets.TweetList.
+[debug] The following modified names cause invalidation of /Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala: Set(size, asSet)
+[debug] The objsets.Tweet source file has the following regular definitions changed:
+[debug] 	size, asSet.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) objsets.Tweet: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all sources transitively invalidated by inheritance.
+[debug] Getting sources that directly depend on (external) objsets.Tweet.
+[debug] The following modified names cause invalidation of /Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala: Set(size, asSet)
+[debug] The objsets.TweetSet source file has the following regular definitions changed:
+[debug] 	size, asSet.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) objsets.TweetSet: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all sources transitively invalidated by inheritance.
+[debug] Getting sources that directly depend on (external) objsets.TweetSet.
+[debug] The following modified names cause invalidation of /Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala: Set(size, asSet)
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set()
+[debug] Invalidated products: Set(/Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7$$anonfun$11.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3$$anonfun$10.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6$$anon$6.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$TestSets$class.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5$$anon$5.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2$$anonfun$9.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1$$anonfun$8.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$TestSets.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$asSet$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4.class)
+[debug] External API changes: API Changes: Set(NamesChange(objsets.Empty,ModifiedNames(regularNames = size, asSet, implicitNames = )), NamesChange(objsets.TweetList,ModifiedNames(regularNames = size, asSet, implicitNames = )), NamesChange(objsets.Tweet,ModifiedNames(regularNames = size, asSet, implicitNames = )), NamesChange(objsets.TweetSet,ModifiedNames(regularNames = size, asSet, implicitNames = )))
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set()
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(/Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set(/Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala)
+[debug] All initially invalidated sources: Set(/Users/Tato/Desktop/objsets/src/test/scala/objsets/TweetSetSuite.scala)
+[debug] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /Users/Tato/Desktop/objsets/target/scala-2.11/test-classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Running cached compiler 55f253b5, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar
+[debug] 	-classpath
+[debug] 	/Users/Tato/Desktop/objsets/target/scala-2.11/test-classes:/Users/Tato/Desktop/objsets/target/scala-2.11/classes:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-xml_2.11/1.0.4/bundles/scala-xml_2.11.jar:/Users/Tato/activator-dist-1.3.12/repository/org.hamcrest/hamcrest-core/1.1/jars/hamcrest-core.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-reflect/2.11.7/jars/scala-reflect.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/bundles/scala-parser-combinators_2.11.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scalatest/scalatest_2.11/2.2.4/bundles/scalatest_2.11.jar:/Users/Tato/activator-dist-1.3.12/repository/junit/junit/4.10/jars/junit.jar
+[debug] Scala compilation took 2.541121715 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

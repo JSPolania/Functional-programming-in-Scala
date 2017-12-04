@@ -1,0 +1,7 @@
+[info] Packaging /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/progfun1-patmat_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	patmat/Huffman.scala
+[debug] 	  /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala
+[debug] 	patmat/package.scala
+[debug] 	  /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala
+[info] Done packaging.

@@ -1,0 +1,43 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala)
+[debug] Invalidated products: Set(/Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Nil.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Nil$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Tweet.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/NonEmpty.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetSet.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Empty.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/NonEmpty$$anonfun$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$unparseToData$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetData$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Main$$anonfun$2.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Main$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Main.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetList.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/Cons.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/common/package.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetData.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/common/package$.class, /Users/Tato/Desktop/objsets/target/scala-2.11/classes/objsets/TweetList$class.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetReader.scala, /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala, /Users/Tato/Desktop/objsets/src/main/scala/common/package.scala, /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetData.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala, /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetReader.scala, /Users/Tato/Desktop/objsets/src/main/scala/common/package.scala, /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetData.scala)
+[debug] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources
+[info] Compiling 4 Scala sources to /Users/Tato/Desktop/objsets/target/scala-2.11/classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Running cached compiler 187b448, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar
+[debug] 	-classpath
+[debug] 	/Users/Tato/Desktop/objsets/target/scala-2.11/classes:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-xml_2.11/1.0.4/bundles/scala-xml_2.11.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-reflect/2.11.7/jars/scala-reflect.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/bundles/scala-parser-combinators_2.11.jar:/Users/Tato/activator-dist-1.3.12/repository/org.scalatest/scalatest_2.11/2.2.4/bundles/scalatest_2.11.jar
+[warn] there was one feature warning; re-run with -feature for details
+[warn] one warning found
+[debug] Scala compilation took 3.174501982 s
+[debug] Invalidating /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala...
+[debug] Invalidating (transitively) by inheritance from /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala...
+[debug] Initial set of included nodes: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala)
+[debug] Invalidated by transitive inheritance dependency: Set(/Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala)
+[debug] The /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetSet.scala source file has the following regular definitions changed:
+[debug] 	size, asSet.
+[debug] All member reference dependencies will be considered within this context.
+[debug] None of the modified names appears in /Users/Tato/Desktop/objsets/src/main/scala/objsets/TweetReader.scala. This dependency is not being considered for invalidation.
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

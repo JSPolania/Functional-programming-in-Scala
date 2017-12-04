@@ -1,0 +1,9 @@
+[info] FunSetSuite:
+[info] - contains is implemented
+[info] - validation of different sets
+[info] - union contains all elements of each set
+[info] - intersection contains only elements that exits in both sets
+[info] - difference method tests
+[info] - filter tests
+[info] - forall tests
+[info] - exits tests

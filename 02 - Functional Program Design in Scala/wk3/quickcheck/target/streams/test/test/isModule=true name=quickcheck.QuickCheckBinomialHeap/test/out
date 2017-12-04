@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min(a,b) = inserting a and b in empty h + get findMin(h): OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.inserting some a in empty h and deleting a = empty h: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Given any heap, sorted sequence of elements = continually finding and deleting min: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.given some h1 and h2, the minimum of melting h1 and h2 = min of h1 or h2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Two heaps should be equal if recursivly removing min elements result in same elements until empty: OK, passed 100 tests.[0m

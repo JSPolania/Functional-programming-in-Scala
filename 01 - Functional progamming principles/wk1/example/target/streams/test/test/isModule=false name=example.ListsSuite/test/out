@@ -1,0 +1,15 @@
+[info] ListsSuite:
+[info] - one plus one is two
+[info] - one plus one is three?
+[info] - details why one plus one is not three
+[info] - intNotZero throws an exception if its argument is 0
+[info] - sum of a few numbers
+[info] - sum of and empty array
+[info] - sum of negatives
+[info] - sum of list with one element
+[info] - sum of zeros
+[info] - max of a few numbers
+[info] - max of empty list
+[info] - max of negatives
+[info] - max of a list with one element
+[info] - sum of tail recursive sum

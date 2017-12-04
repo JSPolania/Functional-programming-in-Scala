@@ -1,0 +1,349 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package$.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$2.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$main$1.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$.class
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas.class
+binary dependencies:
+6 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> /Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> /Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> common.package
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat.pruebas
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat.pruebas$
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat.pruebas$$anonfun$1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat.pruebas$$anonfun$2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat.pruebas$$anonfun$main$1
+used names:
+179 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> ::
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> <init>
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> Any
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> File
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> List
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> None
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> Option
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> Predef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> String
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> _root_
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> child
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> children
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> common
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> exists
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> file
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> getClass
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> getResource
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> io
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> java
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> package
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> scala
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> subFile
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> toURI
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> chars2set
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> chars2setLoop
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> code
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> count
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> countChar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> countCharLoop
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> decodeBit
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> encodeChar
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> f
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> first
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> letter
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> letters
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> list
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> loop
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> original
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> rest
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> reverse
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> second
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> stop
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> subtree
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> timesLoop
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> w
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> ||
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> <init>
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> ==
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> AnyRef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> Array
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> Huffman
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> List
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> Predef
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> Random
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> String
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> Unit
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> apply
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> canBuildFrom
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> codeBits
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> combine
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> convert
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> decode
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> decodedSecret
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> flatMap
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> frenchCode
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> frenchCodeTable
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> immutable
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> leaflist
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> patmat
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> println
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> pruebas
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> scala
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> secret
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> singleton
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> t1
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> t2
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> t3
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> until
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> util
+product stamps:
+22 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1504299789000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1504299788000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$1.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$2.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$$anonfun$main$1.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas$.class -> lastModified(1504299175000)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/target/scala-2.11/classes/patmat/pruebas.class -> lastModified(1504299175000)
+source stamps:
+3 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> hash(b3fb4b14bc2a32124df3679622231d84d2ff3cbc)
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> hash(60959208635bdd7faa2e3f9b2b939861754b6171)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar -> lastModified(1477053196000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Tato/activator-dist-1.3.12/repository/org.scala-lang/scala-library/2.11.7/jars/scala-library.jar -> scala.Product
+internal apis:
+3 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4/N8A6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC9c/5SAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAwYiO6tdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMojBu8XQACmVuY29kZUNoYXJzcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMF3Jtq3QACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMMzCdF3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0cBPvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Al3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCvAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCXTAAJaW5oZXJpdGVkcQB+AJdMAAdwYXJlbnRzcQB+AJd4cQB+ALZzcQB+AK8BdXEAfgCSAAAAAHBzcQB+AK8BdXEAfgCSAAAAAHBzcQB+AK8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC1dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDOdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAADQW55c3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQABXNjYWxhcQB+ANVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj9BAKl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB5L1VzZXJzL1RhdG8vRGVza3RvcC9GdW5jdGlvbmFsIHByb2dyYW1taW5nIGluIFNjYWxhL0Z1bmN0aW9uYWwgcHJvZ2FtbWluZyBwcmluY2lwbGVzL3drNC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLP7SxS8KjISTfNnliIjHYTS/zy8
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB6yWd9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBjVd1R0AAZub3RpZnlzcQB+AAyCO9+AdAAEd2FpdHNxAH4ADLDVd290AA0kYXNJbnN0YW5jZU9mc3EAfgAM6N+R9XQABmVxdWFsc3NxAH4ADKeiR1h0AAhsZWFmbGlzdHNxAH4ADHZTVrl0AAxhc0luc3RhbmNlT2ZzcQB+AAzeYFp6dAAMc3luY2hyb25pemVkc3EAfgAMuf7fTnQADSRpc0luc3RhbmNlT2ZzcQB+AAwop+ztdAACdDNzcQB+AAyM3Vx0dAAHcHJ1ZWJhc3NxAH4ADO46W3h0AARtYWluc3EAfgAMhx7yRHQACW5vdGlmeUFsbHNxAH4ADE5DqPN0AAxpc0luc3RhbmNlT2ZzcQB+AAxCrpSbdAACdDJzcQB+AAwiJbh1dAACPT1zcQB+AAyLZjKsdAAFY2xvbmVzcQB+AAzhNbo4dAAIdG9TdHJpbmdzcQB+AAyoPcwedAACIT1zcQB+AAz41Vg+dAAIZ2V0Q2xhc3NzcQB+AAzKGcpvdAACdDFzcQB+AAxepxV+dAACbmVzcQB+AAxVAB4MdAACZXFzcQB+AAz9b9l3dAACIyNzcQB+AAwQpA1sdAAIZmluYWxpemVzcQB+AAyp/r7JdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0LnBydWViYXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AYQF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+ACN1cQB+AFkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB3WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB2dAAFQXJyYXlxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB2dAAGU3RyaW5nc3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnQABGphdmFzcQB+AIJ0AARsYW5ncQB+AIdwc3EAfgBhAXVxAH4ARAAAAABwc3EAfgBhAXVxAH4AmwAAAAJzcQB+AHZ0AAZPYmplY3RxAH4An3NxAH4AdnQAA0FueXEAfgB8cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4/N8A6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRglZIIY1vdf6ouP5srk5hhdUthcQ==
+external apis:
+0 items
+source infos:
+3 items
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+/Users/Tato/Desktop/Functional programming in Scala/Functional progamming principles/wk4/patmat/src/main/scala/patmat/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXP7XFnp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXP8iy251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjk0cJ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjnEx751cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjniPKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjnjwQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjn5DKt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj1x64t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj17fNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj2WwFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj3i7Uh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj3xIaJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj5DK4J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj5jgsN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj6fyPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj83wDp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXj9BAKl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9UYXRvL0Rlc2t0b3AvRnVuY3Rpb25hbCBwcm9ncmFtbWluZyBpbiBTY2FsYS9GdW5jdGlvbmFsIHByb2dhbW1pbmcgcHJpbmNpcGxlcy93azQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

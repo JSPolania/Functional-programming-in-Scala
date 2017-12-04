@@ -1,0 +1,14 @@
+[info] HuffmanSuite:
+[info] - weight of a larger tree
+[info] - chars of a larger tree
+[info] - string2chars("hello, world")
+[info] - tests for times with empty, singleton and big (30000) char lists
+[info] - makeOrderedLeafList for some frequency table
+[info] - checking for singleton treelist
+[info] - combine of some leaf list
+[info] - decoding the big secret
+[info] - decode and encode a very short text should be identity
+[info] - decode and encode a big text
+[info] - check secret letters with the french code tree and CodeTable
+[info] - convert frencode Treecode to ListCode
+[info] - test for quickencode

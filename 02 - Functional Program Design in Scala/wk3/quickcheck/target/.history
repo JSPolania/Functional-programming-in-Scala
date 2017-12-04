@@ -1,0 +1,9 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/3x/jwn4zj3n6n9cnn5s_ldzydqm0000gn/T/sbt-structure.xml
+test
+all {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/products {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/test:products
+test
+all {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/products {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/test:products
+test
+all {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/products {file:/Users/Tato/Desktop/Functional%20programming%20in%20Scala/02%20-%20Functional%20Program%20Design%20in%20Scala/wk3/quickcheck/}root/test:products
+test
+submit juanspolania@gmail.com VBWrXmAq80SgfldJ
